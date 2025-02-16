@@ -1,6 +1,6 @@
 ### **1. Character Assets**
 #### **Player Character**:
-- [ ] **Idle Animation**: 4-6 frames.
+- [ ] **Idle Animation**: 2 frames. DONE
 - [ ] **Attack Animations**: 6-8 frames per action (e.g., using a bow, throwing a rock).
 - [ ] **Damage Animation**: 4-6 frames.
 - [ ] **Block Animation**: 4-6 frames.
