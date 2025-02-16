@@ -3,6 +3,7 @@
 - [ ] **Idle Animation**: 2 frames. DONE
 - [ ] **Attack Animations**: 5 frames per action (e.g., using a bow, throwing a rock).
   - [ ] sword DONE
+  - [ ] bow DONE 4 Frames
 - [ ] **Damage Animation**: 4-6 frames.
 - [ ] **Block Animation**: 4-6 frames.
 - [ ] **Death Animation**: 8-12 frames.
