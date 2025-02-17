@@ -5,7 +5,7 @@
   - [ ] sword DONE
   - [ ] bow DONE 4 Frames
 - [ ] **Damage Animation**: 4 frames. DONE
-- [ ] **Block Animation**: 4-6 frames.
+- [ ] **Block Animation**: 7 frames. [x]
 - [ ] **Death Animation**: 8-12 frames.
 
 #### **Enemy Characters**:
